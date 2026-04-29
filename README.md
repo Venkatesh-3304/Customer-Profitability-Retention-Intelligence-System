@@ -5,6 +5,15 @@
 
 ---
 
+## 🔗 Live Demo & Dataset
+
+| Resource | Link |
+|----------|------|
+| 📊 **Live Power BI Report** | [View Dashboard](https://app.powerbi.com/groups/me/reports/e2347376-3a27-45ff-82fb-b6d93066b891/6dba9addc95883aa45dc?experience=power-bi) |
+| 📁 **Dataset (Kaggle)** | [View Dataset](https://www.kaggle.com/datasets/venkatesh353/customer-profitability-and-retention-dataset) |
+
+---
+
 ## 🗂️ Index Page
 
 ![Index Page](images/index_page.png)
@@ -133,6 +142,9 @@ Analyze marketing effectiveness, identify high-value customers, and measure the 
 
 Certain metrics like ROI and acquisition efficiency were interpreted carefully to avoid misleading conclusions due to attribution limitations in the dataset.
 
+> 📦 Dataset is not included in this repository due to size constraints (200MB+).  
+> It is publicly available on Kaggle: [Customer Profitability & Retention Dataset](https://www.kaggle.com/datasets/venkatesh353/customer-profitability-and-retention-dataset)
+
 ---
 
 ## 🔜 Next Steps
@@ -152,15 +164,25 @@ Extending this project using **Python** for:
 │   ├── customer_profitability.png
 │   ├── churn_retention.png
 │   └── marketing_performance.png
-├── SQL/
-│   └── views/
-├── PowerBI/
-│   └── CustomerProfitabilityRetention.pbix
-└── README.md
+├── SQL_Analysis.sql
+├── Customer Profitability And Retention Intelligence.pbix
+├── README.md
+└── Dataset → Available on Kaggle (200MB+, not hosted on GitHub)
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Venkatesh Ravva**  
+B.Tech —  AI & Data Science  
+Chaitanya Engineering College, Visakhapatnam
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/venkatesh353/customer-profitability-and-retention-dataset)
+[![Power BI](https://img.shields.io/badge/PowerBI-Live%20Report-yellow?logo=powerbi)](https://app.powerbi.com/groups/me/reports/e2347376-3a27-45ff-82fb-b6d93066b891/6dba9addc95883aa45dc?experience=power-bi)
 
 ---
 
 ## 🏷️ Tags
 
-`Power BI` `SQL` `DAX` `Data Analytics` `Business Intelligence` `Customer Analytics` `Churn Analysis` `Marketing Analytics` `Data Visualization`
+`Power BI` `SQL` `DAX` `Data Analytics` `Business Intelligence` `Customer Analytics` `Churn Analysis` `Marketing Analytics` `Data Visualization` `PostgreSQL`
